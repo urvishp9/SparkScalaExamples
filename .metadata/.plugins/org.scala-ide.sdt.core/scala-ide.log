@@ -153,3 +153,19 @@ Caused by: com.cedarsoftware.util.io.JsonIoException: EOF reached prematurely
 2019-03-11 18:38:29,875  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for SparkScalaCourse, setting default to 2.12.
 2019-03-11 18:39:14,012 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - java.lang.IllegalArgumentException: Argument not valid
 2019-03-11 18:43:35,725  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2019-03-11 20:34:47,511  WARN [ModalContext] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2019-03-11 20:34:47,511  WARN [ModalContext] - ScalaProject - Project LearningScala runs on platform default installation.
+2019-03-11 20:34:49,597 ERROR [Worker-30] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2019-03-11 20:34:49,597 ERROR [Worker-30] - System.err - log4j:WARN Please initialize the log4j system properly.
+2019-03-11 20:35:12,855  WARN [Worker-30] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2019-03-11 20:35:12,856  WARN [Worker-30] - ScalaProject - Project LearningScala runs on platform default installation.
+2019-03-11 20:36:36,614  WARN [Worker-30] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2019-03-11 20:36:36,614  WARN [Worker-30] - ScalaProject - Project LearningScala runs on platform default installation.
+2019-03-11 20:37:03,701  WARN [Worker-33] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2019-03-11 20:37:03,701  WARN [Worker-33] - ScalaProject - Project LearningScala runs on platform default installation.
+2019-03-11 20:37:05,869  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2019-03-11 20:37:05,869  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project LearningScala runs on platform default installation.
+2019-03-11 21:08:02,109  WARN [Worker-27] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2019-03-11 21:08:02,109  WARN [Worker-27] - ScalaProject - Project LearningScala runs on platform default installation.
+2019-03-11 21:15:18,066  WARN [Worker-32] - ScalaProject - Project LearningScala has platform default sourceLevel.
+2019-03-11 21:15:18,066  WARN [Worker-32] - ScalaProject - Project LearningScala runs on platform default installation.
